@@ -17,3 +17,12 @@
 #### Video Reference
 * [Null Object Pattern - Christopher Okhravi](https://www.youtube.com/watch?v=rQ7BzfRz7OY&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=19)
 * [Null Object Pattern - Web Dev Simplified](https://www.youtube.com/watch?v=D4Dja5WSZoA)
+
+## Observer Pattern
+[Wikipedia Definition](https://en.wikipedia.org/wiki/Observer_pattern) - is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
+
+[Example Code](./observer/index.js)
+
+#### Video Reference
+* [Observer Pattern - Christopher Okhravi](https://www.youtube.com/watch?v=_BpmfnqjgzQ&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=3)
+* [Javascript Observer Pattern - DevSage](https://www.youtube.com/watch?v=45TeJEmcqk8)
